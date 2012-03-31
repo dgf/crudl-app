@@ -55,6 +55,7 @@ module.exports = (config, appDir) ->
     app.use app.router
 
   everyone = now.initialize app
+  app.get '/', (req, resp) -> resp.render 'index', title: cfg.app.name
   require(path.join appDir, cfg.app.control) app, everyone, db
 
   db: db
