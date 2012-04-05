@@ -2,4 +2,4 @@
 
 uses fancy nodejs stuff to build a web app base
 
-![crudl-app archtecture](https://github.com/dgf/crudl-app/raw/master/architecture.png)
+![crudl-app architecture](https://github.com/dgf/crudl-app/raw/master/architecture.png)
