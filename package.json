@@ -1,6 +1,6 @@
 {
     "name": "crudl-app"
-  , "version": "0.0.2"
+  , "version": "0.0.3"
   , "author": "Danny Gräf <github@dagnu.de>"
 
   , "keywords": ["CRUD", "coffeescript"]
@@ -34,8 +34,8 @@
   , "devDependencies": {
       "jasmine-node": "1.0.x"
     , "sqlite3": "2.1.x"
-    , "crudl-model": "0.0.x"
-    , "crudl-control": "0.0.x"
+    , "crudl-model": "0.1.x"
+    , "crudl-control": "0.1.x"
   }
 
   , "engines": {
